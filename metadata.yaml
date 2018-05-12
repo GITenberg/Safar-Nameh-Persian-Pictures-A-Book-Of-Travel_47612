@@ -1,10 +1,16 @@
 _repo: Safar-Nameh-Persian-Pictures-A-Book-Of-Travel_47612
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47612-h/images/cover.jpg
 creator:
   author:
     agent_name: Bell, Gertrude
     gutenberg_agent_id: '44393'
     url: http://www.gutenberg.org/2009/agents/44393
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47612#Safar-Nameh-Persian-Pictures-A-Book-Of-Travel
 gutenberg_issued: '2014-12-09'
 gutenberg_type: Text
 identifiers:
